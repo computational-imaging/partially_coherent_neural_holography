@@ -1,0 +1,3 @@
+[submodule "neural-holography"]
+	path = neural-holography
+	url = https://github.com/computational-imaging/neural-holography
