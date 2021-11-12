@@ -1,9 +1,9 @@
 # Speckle-free Holography with Partially Coherent Light Sources and Camera-in-the-loop Calibration
-### [Project Page](http://www.computationalimaging.org/publications/pcnh/)  | [Paper](#)
+### [Project Page](https://www.computationalimaging.org/publications/partiallycoherentholography/)  | [Paper](https://www.science.org/doi/10.1126/sciadv.abg5040)
 
-[Yifan Peng&dagger;](http://stanford.edu/~evanpeng/), [Suyeon Choi&dagger;](https://choisuyeon.github.io/), Jonghyun Kim, [Gordon Wetzstein](http://stanford.edu/~gordonwz/)
+[Yifan Peng*](http://stanford.edu/~evanpeng/), [Suyeon Choi*](https://choisuyeon.github.io/), [Jonghyun Kim](http://j-kim.kr/), [Gordon Wetzstein](http://stanford.edu/~gordonwz/)
 
-<font size="1">&dagger; Authors contributed equally.</font>
+<font size="1">* Authors contributed equally.</font>
 
 This repository contains the scripts associated with the Science Advances paper "Speckle-free Holography with Partially Coherent Light Sources and Camera-in-the-loop Calibration"
 
@@ -47,14 +47,14 @@ If you find our work useful in your research, please cite:
 
 ```
 @article{Peng:2021:PartiallyCoherent,
-author={Y. Peng, S. Choi, J. Kim, G. Wetzstein},
-title={Speckle-free Holography with Partially Coherent Light Sources and Camera-in-the-loop Calibration},
-journal={Science advances},
-volume={7},
-number={9999},
-pages={eaav999999},
-year={2021},
-}
+author = {Yifan Peng  and Suyeon Choi  and Jonghyun Kim  and Gordon Wetzstein },
+title = {Speckle-free holography with partially coherent light sources and camera-in-the-loop calibration},
+journal = {Science Advances},
+volume = {7},
+number = {46},
+pages = {eabg5040},
+year = {2021},
+doi = {10.1126/sciadv.abg5040}
 ```
 
 ## License
@@ -81,5 +81,5 @@ THIS SOFTWARE IS PROVIDED BY THE TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSI
 If you have any questions, please contact
 
 * Yifan (Evan) Peng, evanpeng@stanford.edu
-* Suyeon Choi, suyeon@stanford.edu 
-* Gordon Wetzstein, gordon.wetzstein@stanford.edu 
+* Suyeon Choi, suyeon@stanford.edu
+* Gordon Wetzstein, gordon.wetzstein@stanford.edu

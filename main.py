@@ -8,13 +8,15 @@ This code and data is released under the Creative Commons Attribution-NonCommerc
     # The material is provided as-is, with no warranties whatsoever.
     # If you publish any code, data, or scientific work based on this, please cite our work.
 
-@article{Peng:2020:PartiallyCoherent,
-author = {Y. Peng, S. Choi, J. Kim, G. Wetzstein},
-title = {Speckle-free Holography with Partially Coherent Light Sources and Camera-in-the-loop Calibration},
+@article{Peng:2021:PartiallyCoherent,
+author = {Yifan Peng  and Suyeon Choi  and Jonghyun Kim  and Gordon Wetzstein },
+title = {Speckle-free holography with partially coherent light sources and camera-in-the-loop calibration},
 journal = {Science Advances},
+volume = {7},
+number = {46},
+pages = {eabg5040},
 year = {2021},
-}
-
+doi = {10.1126/sciadv.abg5040}
 -----
 
 $ python main.py --channel=0 --algorithm=SGD --root_path=./phases
